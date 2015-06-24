@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\arnocular_unity_rubab\Dynamic_allocation_fbx_dropbox\Assets\Scripts\DropboxLoad.cs">
+    <Files>
+      <File FileName="..\..\arnocular_unity_rubab\Dynamic_allocation_fbx_dropbox\Assets\Scripts\DropboxLoad.cs" Line="52" Column="20" />
+      <File FileName="..\..\arnocular_unity_rubab\Dynamic_allocation_fbx_dropbox\Assets\Scripts\CSVReader.cs" Line="18" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

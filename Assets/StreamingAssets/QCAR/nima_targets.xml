@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="heart" size="10.000000 13.333333" />
+    <ImageTarget name="botteh_jegheh" size="10.000000 13.333333" />
+    <ImageTarget name="Yin_Yang" size="10.000000 13.333333" />
+    <ImageTarget name="CitySightseeing-Toronto-bus-stop" size="70.000000 105.000000" />
+    <ImageTarget name="stones_grey_scale" size="100.000000 70.000000" />
+    <ImageTarget name="sufi_on_wall" size="440.000000 782.222229" />
+    <ImageTarget name="color_chips" size="100.000000 100.000000" />
+    <ImageTarget name="stones" size="100.000000 70.000000" />
+  </Tracking>
+</QCARConfig>
